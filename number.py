@@ -4,3 +4,4 @@ if int(number)==1000 :
 else :
 	print('바보ㅎ')
 print('ㅅㄱㅎㅅㅅㄴㄷ.')
+print('2018.03.10.')
